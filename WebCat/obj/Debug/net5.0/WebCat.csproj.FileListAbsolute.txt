@@ -34,6 +34,7 @@ D:\WebCat\WebCat\obj\Debug\net5.0\ref\WebCat.dll
 D:\WebCat\WebCat\obj\Debug\net5.0\WebCat.pdb
 D:\WebCat\WebCat\obj\Debug\net5.0\WebCat.genruntimeconfig.cache
 D:\WebCat\WebCat\obj\Debug\net5.0\WebCat.csproj.CopyComplete
+<<<<<<< HEAD
 D:\WebCat\WebCat\bin\Debug\net5.0\Humanizer.dll
 D:\WebCat\WebCat\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
 D:\WebCat\WebCat\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
@@ -92,3 +93,6 @@ D:\WebCat\WebCat\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
 D:\WebCat\WebCat\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
 D:\WebCat\WebCat\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
 D:\WebCat\WebCat\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+=======
+D:\WebCat\WebCat\obj\Debug\net5.0\Razor\Views\HomePage\Index.cshtml.g.cs
+>>>>>>> 03d98666693351baa73eb6bbd3e9b23abf55a18b

@@ -55,7 +55,11 @@ namespace WebCat
             {
                 endpoints.MapControllerRoute(
                     name: "default",
+<<<<<<< HEAD
                     pattern: "{controller=Book}/{action=Index}/{id?}");
+=======
+                    pattern: "{controller=HomePage}/{action=Index}/{id?}");
+>>>>>>> 03d98666693351baa73eb6bbd3e9b23abf55a18b
             });
         }
     }
